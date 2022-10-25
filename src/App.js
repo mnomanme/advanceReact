@@ -7,9 +7,9 @@ import UseStateCounter from './components/UseStateCounter';
 const App = () => {
 	return (
 		<div className="container">
-			{/* <ErrorExample /> */}
-			{/* <UseStateBasics /> */}
-			{/* <UseStateArray /> */}
+			<ErrorExample />
+			<UseStateBasics />
+			<UseStateArray />
 			<UseStateObject />
 			<UseStateCounter />
 		</div>

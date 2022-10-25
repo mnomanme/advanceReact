@@ -12,7 +12,7 @@ const UseStateObject = () => {
 	const [message, setmessage] = useState('hi, mehe');
 
 	const changeMessage = () => {
-		// setPerson({ ...person, message: 'good morning' });
+		// setPerson({ ...person, message: 'good night' });
 		setmessage('good noon');
 	};
 
