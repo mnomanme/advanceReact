@@ -1,20 +1,26 @@
-# React Hooks useState
+# React Hooks useEffect
 
-This project is covered useState react hook concepts [useState](https://usestate-react-hooks.netlify.app/)
+This project is covered useEffect react hook concepts [useEffect]()
 
 ## Topic is covered
 
-- ### useState - Simple Use Case
+- ### useEffect - Basics
 
-- ### useState - Basics
+- ### useEffect - Conditional
 
-- ### useState - Rules of Hooks
+- ### useEffect - Dependency List
 
-- ### useState - Array Example
+- ### useEffect - Cleanup Function
 
-- ### useState - Object Example
+- ### useEffect - Fetch Data
 
-- ### useState - Multiple State Values
+- ### useEffect - Multiple Returns
+
+- ### useEffect - Short Circuit Evaluation
+
+- ### useEffect - Ternary Operator
+
+- ### useEffect - Show/Hide Component
 
 If your run the project directory, you can run:
 
