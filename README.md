@@ -1,26 +1,16 @@
-# React Hooks useEffect
+# React Conditional Rendering
 
-This project is covered useEffect react hook concepts [useEffect]()
+This project is covered useEffect react hook concepts [Conditional Rendering]()
 
 ## Topic is covered
 
-- ### useEffect - Basics
+- ### Conditional Rendering - Multiple Returns
 
-- ### useEffect - Conditional
+- ### Conditional Rendering - Short Circuit Evaluation
 
-- ### useEffect - Dependency List
+- ### Conditional Rendering - Ternary Operator
 
-- ### useEffect - Cleanup Function
-
-- ### useEffect - Fetch Data
-
-- ### useEffect - Multiple Returns
-
-- ### useEffect - Short Circuit Evaluation
-
-- ### useEffect - Ternary Operator
-
-- ### useEffect - Show/Hide Component
+- ### Conditional Rendering - Show/Hide Component
 
 If your run the project directory, you can run:
 
