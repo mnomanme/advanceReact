@@ -1,17 +1,9 @@
-import ErrorExample from './components/ErrorExample';
-import UseStateBasics from './components/UseStateBasics';
-import UseStateArray from './components/UseStateArray';
-import UseStateObject from './components/UseStateObject';
-import UseStateCounter from './components/UseStateCounter';
+import UseEffectBasics from './components/UseEffectBasics';
 
 const App = () => {
 	return (
 		<div className="container">
-			<ErrorExample />
-			<UseStateBasics />
-			<UseStateArray />
-			<UseStateObject />
-			<UseStateCounter />
+			<UseEffectBasics />
 		</div>
 	);
 };
