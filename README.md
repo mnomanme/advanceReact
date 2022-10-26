@@ -14,14 +14,6 @@ This project is covered useEffect react hook concepts [useEffect]()
 
 - ### useEffect - Fetch Data
 
-- ### useEffect - Multiple Returns
-
-- ### useEffect - Short Circuit Evaluation
-
-- ### useEffect - Ternary Operator
-
-- ### useEffect - Show/Hide Component
-
 If your run the project directory, you can run:
 
 ### `npm install`
