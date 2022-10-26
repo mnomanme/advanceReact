@@ -1,6 +1,6 @@
 # React Conditional Rendering
 
-This project is covered useEffect react hook concepts [Conditional Rendering]()
+This project is covered Conditional Rendering concepts [Conditional Rendering]()
 
 ## Topic is covered
 
