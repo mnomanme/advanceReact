@@ -1,5 +1,6 @@
 import MultipleReturns from './components/MultipleReturns';
 import ShortCircuit from './components/ShortCircuit';
+import ShowHide from './components/ShowHide';
 
 const App = () => {
 	return (
@@ -7,6 +8,7 @@ const App = () => {
 			<h2>Conditional Rendering</h2>
 			<MultipleReturns />
 			<ShortCircuit />
+			<ShowHide />
 		</div>
 	);
 };
