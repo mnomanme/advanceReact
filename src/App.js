@@ -1,12 +1,10 @@
-import ControlledInputs from './components/ControlledInputs';
-import MultipleInputs from './components/MultipleInputs';
+import UseRefBasics from './components/UseRefBasics';
 
 const App = () => {
 	return (
 		<div className="container">
-			<h2>forms</h2>
-			<ControlledInputs />
-			<MultipleInputs />
+			<h2>useRef</h2>
+			<UseRefBasics />
 		</div>
 	);
 };
