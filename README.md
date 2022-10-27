@@ -1,10 +1,16 @@
-# React Hooks useRef
+# React Hooks useReducer
 
-This project is covered useRef react hook concepts [useRef]()
+This project is covered useReducer react hook concepts [useReducer]()
 
 ## Topic is covered
 
-- ### useRef Basic
+- ### useReducer Basic
+
+- ### useReducer Refactor
+
+- ### useReducer Add Item
+
+- ### useReducer Remove Item
 
 If your run the project directory, you can run:
 

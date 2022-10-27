@@ -1,10 +1,10 @@
-import UseRefBasics from './components/UseRefBasics';
+import { Modal } from './components/Modal';
 
 const App = () => {
 	return (
 		<div className="container">
-			<h2>useRef</h2>
-			<UseRefBasics />
+			<h2>useReducer</h2>
+			<Modal />
 		</div>
 	);
 };
