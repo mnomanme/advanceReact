@@ -1,10 +1,10 @@
-import { Modal } from './components/Modal';
+import Index from './components/Index';
 
 const App = () => {
 	return (
 		<div className="container">
 			<h2>useReducer</h2>
-			<Modal />
+			<Index />
 		</div>
 	);
 };

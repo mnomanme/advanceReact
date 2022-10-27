@@ -1,9 +1,11 @@
 import React from 'react';
 
-export const Modal = () => {
+const Modal = () => {
 	return (
 		<>
-			<h3>modal</h3>
+			<h5>modal</h5>
 		</>
 	);
 };
+
+export default Modal;
