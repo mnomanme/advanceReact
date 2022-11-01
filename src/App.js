@@ -1,10 +1,9 @@
-import Index from './components/Index';
+import PropDrilling from './components/PropDrilling';
 
 const App = () => {
 	return (
 		<div className="container">
-			<h2>useReducer</h2>
-			<Index />
+			<PropDrilling />
 		</div>
 	);
 };

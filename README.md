@@ -1,16 +1,10 @@
-# React Hooks useReducer
+# React Prop Drilling
 
-This project is covered useReducer react hook concepts [useReducer]()
+This project is covered useReducer react hook concepts [Prop Drilling]()
 
 ## Topic is covered
 
-- ### useReducer Basic
-
-- ### useReducer Refactor
-
-- ### useReducer Add Item
-
-- ### useReducer Remove Item
+- ### Prop Drilling Basic
 
 If your run the project directory, you can run:
 
@@ -21,7 +15,7 @@ https://github.com/mnomanme/advanceReact.git
 ```
 
 ```git
-git checkout useReducer
+git checkout propDrilling
 ```
 
 **2. Installation**
