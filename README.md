@@ -1,10 +1,10 @@
-# React Prop Drilling
+# React Custom Hook useContext
 
-This project is covered useReducer react hook concepts [Prop Drilling]()
+This project is covered useReducer react hook concepts [useContext]()
 
 ## Topic is covered
 
-- ### Prop Drilling Basic
+- ### useContext Basic
 
 If your run the project directory, you can run:
 
@@ -15,7 +15,7 @@ https://github.com/mnomanme/advanceReact.git
 ```
 
 ```git
-git checkout propDrilling
+git checkout useContext
 ```
 
 **2. Installation**
