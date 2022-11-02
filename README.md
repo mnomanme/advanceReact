@@ -1,10 +1,10 @@
-# React Hooks useContext
+# React Custom Hooks useFetch
 
-This project is covered useReducer react hook concepts [useContext]()
+This project is covered useReducer react hook concepts [useFetch]()
 
 ## Topic is covered
 
-- ### useContext Basic
+- ### useFetch Basic
 
 If your run the project directory, you can run:
 
@@ -15,7 +15,7 @@ https://github.com/mnomanme/advanceReact.git
 ```
 
 ```git
-git checkout useContext
+git checkout useFetch
 ```
 
 **2. Installation**
