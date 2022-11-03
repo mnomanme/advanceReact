@@ -2,13 +2,13 @@ import { useEffect, useState } from 'react';
 
 const UseFetch = (url) => {
 	const [loading, setLoading] = useState(true);
-	const [products, setProducts] = useState([]);
+	const [meals, setMeals] = useState([]);
 
 	const getProducts = async () => {
 		const response = await fetch(url);
 		const products = await response.json();
 
-		setProducts(products);
+		setMeals(products.meals);
 		setLoading(false);
 	};
 
@@ -16,7 +16,7 @@ const UseFetch = (url) => {
 		getProducts();
 	}, [url]);
 
-	return { loading, products };
+	return { loading, meals };
 };
 
 export default UseFetch;

@@ -1,10 +1,10 @@
-# React Custom Hooks useFetch
+# React Prop Types
 
-This project is covered useReducer react hook concepts [useFetch]()
+This project is covered react prop types concepts [propTypes]()
 
 ## Topic is covered
 
-- ### useFetch Basic
+- ### propTypes Basic
 
 If your run the project directory, you can run:
 
@@ -15,7 +15,7 @@ https://github.com/mnomanme/advanceReact.git
 ```
 
 ```git
-git checkout useFetch
+git checkout propTypes
 ```
 
 **2. Installation**

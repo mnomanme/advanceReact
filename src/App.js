@@ -1,10 +1,10 @@
-import FetchExample from './components/FetchExample';
+import Index from './components/Index';
 
 const App = () => {
 	return (
 		<div className="container">
-			<h2>custom hooks</h2>
-			<FetchExample />
+			<h2>prop types</h2>
+			<Index />
 		</div>
 	);
 };
