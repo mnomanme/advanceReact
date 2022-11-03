@@ -1,37 +1,33 @@
 import PropTypes from 'prop-types';
 import defaultImage from '../assests/sofa.png';
 
-const Product = ({ strMeal, strCategory, strArea, strMealThumb }) => {
-	console.log(strMeal, strCategory, strArea, strMealThumb);
+const Product = ({ id, name, image, price }) => {
+	console.log(id, name, image, price);
 
-	const imageURL = strMealThumb && strMealThumb;
+	const imageURL = image && image.url;
 
 	return (
 		<>
 			<article className="product">
-				<img src={imageURL || defaultImage} alt={strMeal || 'default name'} />
-				<h4>{strMeal}</h4>
-				<h6>{strCategory}</h6>
-				<p>
-					<small>{strArea} </small>
-				</p>
+				<img src={imageURL || defaultImage} alt={name || 'default name'} />
+				<h4>{name}</h4>
+				<p>$ {price}</p>
 			</article>
 		</>
 	);
 };
 
 Product.propTypes = {
-	strMeal: PropTypes.string.isRequired,
-	strCategory: PropTypes.string.isRequired,
-	strArea: PropTypes.string.isRequired,
-	strMealThumb: PropTypes.string.isRequired,
+	id: PropTypes.string.isRequired,
+	name: PropTypes.string.isRequired,
+	price: PropTypes.string.isRequired,
+	image: PropTypes.object.isRequired,
 };
 
 Product.defaultProps = {
-	strMeal: 'default name',
-	strCategory: 'default category',
-	strArea: 'default area',
-	strMealThumb: defaultImage,
+	name: 'default name',
+	price: 3.67,
+	image: defaultImage,
 };
 
 export default Product;

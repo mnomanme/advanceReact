@@ -1,15 +1,15 @@
 import Product from './Product';
 import useFetch from './UseFetch';
 
-const url = `https://www.themealdb.com/api/json/v1/1/search.php?s`;
+const url = `https://course-api.com/react-prop-types-example`;
 
 const Index = () => {
-	const { meals } = useFetch(url);
+	const { products } = useFetch(url);
 	return (
 		<>
 			<section className="products">
-				{meals.map((meal) => {
-					return <Product key={meal.idMeal} {...meal} />;
+				{products.map((product) => {
+					return <Product key={product.id} {...product} />;
 				})}
 			</section>
 		</>
