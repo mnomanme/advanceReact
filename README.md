@@ -1,10 +1,16 @@
-# React Prop Types
+# React Hooks and Performance Optimization
 
-This project is covered react prop types concepts [propTypes]()
+This project is covered react hooks and performance optimization concepts [Performance Optimization]()
 
 ## Topic is covered
 
-- ### propTypes Basic
+- ### React.memo
+
+- ### useCallback
+
+- ### useMemo
+
+- ### Memoizing
 
 If your run the project directory, you can run:
 
@@ -15,7 +21,7 @@ https://github.com/mnomanme/advanceReact.git
 ```
 
 ```git
-git checkout propTypes
+git checkout optimization
 ```
 
 **2. Installation**
