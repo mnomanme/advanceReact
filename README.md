@@ -1,6 +1,6 @@
 # React Hooks useContext
 
-This project is covered useReducer react hook concepts [useContext]()
+This project is covered useContext react hook concepts [useContext]()
 
 ## Topic is covered
 
