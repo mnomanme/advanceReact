@@ -58,7 +58,7 @@ yarn start
 
 ## Contact
 
-Muhammad Noman - [mohammadnoman.me@gmailcom](mailto:mohammadnoman.me@gmailcom)
+Muhammad Noman - [mohammadnoman.me@gmailcom](mailto:mohammadnoman.me@gmail.com)
 
 Project Link: [https://github.com/mnomanme/advanceReact](https://github.com/mnomanme/advanceReact)
 
