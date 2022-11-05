@@ -1,6 +1,6 @@
 # React Prop Drilling
 
-This project is covered useReducer react hook concepts [Prop Drilling]()
+This project is covered prop drilling react concepts [Prop Drilling]()
 
 ## Topic is covered
 
