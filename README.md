@@ -1,12 +1,18 @@
-# React Prop Drilling
+# [![LinkedIn][linkedin-shield]][linkedin-url]
 
-This project is covered prop drilling react concepts [Prop Drilling]()
+<!-- PROJECT Title -->
+<br />
+<p align="center">
+  <h3 align="center"><a href="https://github.com/mnomanme/advanceReact">Advance Concept in a React</a></h3>
 
-## Topic is covered
+<!-- TABLE OF CONTENTS -->
 
-- ### Prop Drilling Basic
+## Table of Contents
 
-If your run the project directory, you can run:
+- [How to run](#how-to-run)
+- [Contact](#contact)
+
+## How to run
 
 **1. Clone this repo:**
 
@@ -15,7 +21,7 @@ https://github.com/mnomanme/advanceReact.git
 ```
 
 ```git
-git checkout propDrilling
+git checkout branchname
 ```
 
 **2. Installation**
@@ -48,6 +54,15 @@ _or_
 yarn start
 ```
 
-Open <http://localhost:3000> to view it in the browser.
+<!-- CONTACT -->
 
-You can learn more in the [Create React App documentation.](https://create-react-app.dev/docs/getting-started/)
+## Contact
+
+Muhammad Noman - [mohammadnoman.me@gmailcom](mailto:mohammadnoman.me@gmailcom)
+
+Project Link: [https://github.com/mnomanme/advanceReact](https://github.com/mnomanme/advanceReact)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/mnomanme/
